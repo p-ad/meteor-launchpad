@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM debian:buster
 MAINTAINER Jeremy Shimko <jeremy.shimko@gmail.com>
 ARG DEBIAN_FRONTEND=noninteractive
 
