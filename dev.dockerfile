@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:stable
 MAINTAINER Jeremy Shimko <jeremy.shimko@gmail.com>
 ARG DEBIAN_FRONTEND=noninteractive
 
